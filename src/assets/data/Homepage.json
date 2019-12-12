@@ -1,0 +1,1118 @@
+{
+    "navList": [
+        {
+            "cateId": 910,
+            "icon": "http://p1.meituan.net/jungle/8b5e1702d4145ccf058ba5fb31008c5310912.png",
+            "name": "美食",
+            "url": "/food"
+        },
+        {
+            "cateId": 101574,
+            "icon": "http://p0.meituan.net/jungle/45ff2f098a20a77122bff8385192f0ec10547.png",
+            "name": "美团超市",
+            "url": ""
+        },
+        {
+            "cateId": 101578,
+            "icon": "http://p1.meituan.net/jungle/12a9834827909fa55f54bce96e67470711250.png",
+            "name": "生鲜果蔬",
+            "url": ""
+        },
+        {
+            "cateId": 960,
+            "icon": "http://p1.meituan.net/jungle/da9181f93dd2e11c5d74cf685470408f10016.png",
+            "name": "美团专送",
+            "url": ""
+        },
+        {
+            "cateId": 100325,
+            "icon": "http://p1.meituan.net/jungle/83bfbcf07221cb1ccbcd9114e81ec7ac9209.png",
+            "name": "快食简餐",
+            "url": ""
+        },
+        {
+            "cateId": 101565,
+            "icon": "http://p1.meituan.net/jungle/c1048e334022a93221b0e63bbfb998b18861.png",
+            "name": "午餐优选",
+            "url": ""
+        },
+        {
+            "cateId": 19,
+            "icon": "http://p1.meituan.net/jungle/e54f1fe77b0588d2dfe82a12e424108a9450.png",
+            "name": "甜点饮品",
+            "url": ""
+        },
+        {
+            "cateId": 100209,
+            "icon": "http://p0.meituan.net/jungle/2eee7747fd143249b100b9fa5ee5e31d9873.png",
+            "name": "家常菜",
+            "url": ""
+        },
+        {
+            "cateId": 100180,
+            "icon": "http://p0.meituan.net/jungle/2ec76f8f4f21a4ec163adc7fccfa1a399428.png",
+            "name": "小吃馆",
+            "url": ""
+        },
+        {
+            "cateId": 23,
+            "icon": "http://p1.meituan.net/jungle/dfd03fd91f640682c16179ba85837f739679.png",
+            "name": "鲜花蛋糕",
+            "url": ""
+        }
+    ],
+    "shopList": [
+        {
+            "mtWmPoiId": "1091730342360153",
+            "shopName": "肯德基宅急送（昌宏百货店）",
+            "wmPoiScore": 44,
+            "monthSalesTip": "888",
+            "picUrl": "http://p0.meituan.net/xianfu/475af8901149e38f5b1c6250360a420533049.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "30分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥25",
+            "shippingFeeTip": "配送 ¥4;",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "1.5",
+            "averagePriceTip": "人均 ¥25",
+            "discounts2": [
+                {
+                    "info": "折扣商品7.5折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                },
+                {
+                    "info": "本店支持开发票，开票金额0元起",
+                    "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                    "promotionType": 2,
+                    "activityId": -2
+                }
+            ],
+            "address": "西乡街道黄田村长园路28号昌宏百货一层",
+            "shipping_time": "00:00-04:00,05:45-23:59"
+        },
+        {
+            "mtWmPoiId": "1030183461007714",
+            "shopName": "麦当劳麦乐送（深圳进场路得来速店）",
+            "wmPoiScore": 45,
+            "monthSalesTip": "666",
+            "picUrl": "http://p1.meituan.net/xianfu/aa86bc1b9a218ea5e094b861c03b59b94873.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "40分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥25",
+            "shippingFeeTip": "配送 ¥4",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "2.5",
+            "averagePriceTip": "人均 ¥30",
+            "recommendInfo": {
+                "icon": "",
+                "recommendReason": "大众点评高分店铺",
+                "type": 3
+            },
+            "discounts2": [
+                {
+                    "info": "折扣商品8.8折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                },
+                {
+                    "info": "本店支持开发票，开票金额0元起",
+                    "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                    "promotionType": 2,
+                    "activityId": -2
+                }
+            ],
+            "address": "深圳市宝安区深圳市空港油料有限公司第二加油站（加气）配套用房",
+            "shipping_time": "00:00-04:45,05:00-10:15,10:30-23:59"
+        },
+        {
+            "mtWmPoiId": "1047552308745405",
+            "shopName": "尊宝比萨（后瑞店）",
+            "wmPoiScore": 46,
+            "monthSalesTip": "768",
+            "picUrl": "http://p1.meituan.net/waimaipoi/a069cda780cfad105f7d34b193f4cd8027807.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "25分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥45",
+            "shippingFeeTip": "配送 ¥4",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "1.2",
+            "averagePriceTip": "人均 ¥50",
+            "recommendInfo": {
+                "icon": "",
+                "recommendReason": "大众点评高分店铺",
+                "type": 3
+            },
+            "discounts2": [
+                {
+                    "info": "满20减5;满30减7满40减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "折扣商品8.8折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                },
+                {
+                    "info": "本店支持开发票，开票金额0元起",
+                    "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                    "promotionType": 2,
+                    "activityId": -2
+                }
+            ],
+            "address": "西乡新瑞路壹航城T3栋首层（华润万家旁）",
+            "shipping_time": "09:10-22:00"
+        },
+        {
+            "mtWmPoiId": "847522796875511",
+            "shopName": "华莱士·全鸡汉堡(深圳兴围店)",
+            "wmPoiScore": 44,
+            "monthSalesTip": "200",
+            "picUrl": "http://p0.meituan.net/waimaipoi/2a3954d322b7b4fa7b82b1c0e58770a311192.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "30分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥20",
+            "shippingFeeTip": "配送 ¥2",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "1.5",
+            "averagePriceTip": "人均 ¥25",
+            "discounts2": [
+                {
+                    "info": "满20减5;满30减7满40减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "折扣商品8.8折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                },
+                {
+                    "info": "本店支持开发票，开票金额0元起",
+                    "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                    "promotionType": 2,
+                    "activityId": -2
+                }
+            ],
+            "address": "深圳市兴围村兴业1路52号二楼",
+            "shipping_time": "00:00-03:00,09:00-23:59"
+        },
+        {
+            "mtWmPoiId": "925708381525119",
+            "shopName": "柳螺味柳州螺蛳粉（航城店）",
+            "wmPoiScore": 45,
+            "monthSalesTip": "225",
+            "picUrl": "http://p0.meituan.net/waimaipoi/c50c937c19efe79b15ea186988399995336883.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "40分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥15",
+            "shippingFeeTip": "配送 ¥2",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "1.5",
+            "averagePriceTip": "人均 ¥15",
+            "discounts2": [
+                {
+                    "info": "满20减5;满30减7满40减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "折扣商品8.8折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                }
+            ],
+            "address": "后瑞壹航城华润万家对面",
+            "shipping_time": "00:00-03:30,09:00-23:59"
+        },
+        {
+            "mtWmPoiId": "1045086997577074",
+            "shopName": "翻滚吧！麻辣香锅(桃源居店)",
+            "wmPoiScore": 44,
+            "monthSalesTip": "124",
+            "picUrl": "http://p0.meituan.net/waimaipoi/945ca9e9ae4c7af9430f6f05446ac69741516.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "50分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥20",
+            "shippingFeeTip": "配送 ¥4",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "2.0",
+            "averagePriceTip": "",
+            "discounts2": [
+                {
+                    "info": "满20减5;满30减7满40减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "折扣商品8.8折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                }
+            ],
+            "address": "深圳市宝安区西乡街道桃源社区桃源居三区2栋3座12",
+            "shipping_time": "10:00-23:11"
+        },
+        {
+            "mtWmPoiId": "1093989495208786",
+            "shopName": "1点点（后瑞地铁店）",
+            "wmPoiScore": 45,
+            "monthSalesTip": "500",
+            "picUrl": "http://p1.meituan.net/waimaipoi/b4ee46c1187c1dacb84f55bc00cb8c4321747.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "30分钟",
+            "deliveryType": 1,
+            "minPriceTip": "起送 ¥10",
+            "shippingFeeTip": "配送 ¥2",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "1.5",
+            "averagePriceTip": "人均 ¥12",
+            "discounts2": [
+                {
+                    "info": "折扣商品8.8折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                },
+                {
+                    "info": "本店支持开发票，开票金额0元起",
+                    "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                    "promotionType": 2,
+                    "activityId": -2
+                }
+            ],
+            "address": "深圳市宝安区新瑞路13号T4-120商铺",
+            "shipping_time": "10:00-22:30"
+        },
+        {
+            "mtWmPoiId": "899337282324624",
+            "shopName": "可以用餐了",
+            "wmPoiScore": 44,
+            "monthSalesTip": "120",
+            "picUrl": "http://p1.meituan.net/business/123f9e900da2c0e6f5b73d588f335be323550.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "58分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥30",
+            "shippingFeeTip": "配送 ¥0",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "2.5",
+            "averagePriceTip": "人均 ¥40",
+            "discounts2": [
+                {
+                    "info": "满20减5;满30减7满40减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "折扣商品8.8折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                }
+            ],
+            "address": "深圳市宝安区西乡街道南昌社区南昌二队东七巷7号104",
+            "shipping_time": "09:45-23:59"
+        },
+        {
+            "mtWmPoiId": "961622898074912",
+            "shopName": "啄木鸟港式茶餐厅（兴围店）",
+            "wmPoiScore": 42,
+            "monthSalesTip": "300",
+            "picUrl": "http://p1.meituan.net/business/b3d6db8c5f91dc303ff4e4f835d9ee48347910.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "50分钟",
+            "deliveryType": 1,
+            "minPriceTip": "起送 ¥20",
+            "shippingFeeTip": "配送 ¥4",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "2.5",
+            "averagePriceTip": "人均 ¥25",
+            "discounts2": [
+                {
+                    "info": "折扣商品9.5折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                },
+                {
+                    "info": "本店支持开发票，开票金额0元起",
+                    "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                    "promotionType": 2,
+                    "activityId": -2
+                }
+            ],
+            "address": "深圳市宝安区福永街道兴围社区兴业一路39号二楼",
+            "shipping_time": "09:15-21:45"
+        },
+        {
+            "mtWmPoiId": "1067798784637152",
+            "shopName": "丰盛牛肉粿条汤",
+            "wmPoiScore": 47,
+            "monthSalesTip": "543",
+            "picUrl": "http://p1.meituan.net/business/1c9589e96ad1f610bf7d6c59528b23aa184709.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "56分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥15",
+            "shippingFeeTip": "配送 ¥2;",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "2.1",
+            "averagePriceTip": "人均 ¥20",
+            "discounts2": [
+                {
+                    "info": "满20减5;满30减7满40减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "本店支持开发票，开票金额0元起",
+                    "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                    "promotionType": 2,
+                    "activityId": -2
+                }
+            ],
+            "address": "深圳市宝安区福永街道兴围社区兴业一路86号兴业一路86-7",
+            "shipping_time": "07:30-23:55"
+        },
+        {
+            "mtWmPoiId": "1117513031034133",
+            "shopName": "正新鸡排（壹航城店）",
+            "wmPoiScore": 50,
+            "monthSalesTip": "450",
+            "picUrl": "http://p1.meituan.net/waimaipoi/c16f2cb661a2e5cffb3572a4d438e27a19401.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "30分钟",
+            "deliveryType": 1,
+            "minPriceTip": "起送 ¥10",
+            "shippingFeeTip": "配送 ¥2",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "1.5",
+            "averagePriceTip": "人均 ¥20",
+            "discounts2": [
+                {
+                    "info": "满20减5;满30减7满40减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "折扣商品9.5折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                },
+                {
+                    "info": "本店支持开发票，开票金额0元起",
+                    "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                    "promotionType": 2,
+                    "activityId": -2
+                }
+            ],
+            "address": "深圳市宝安区西乡街道后瑞社区新瑞路13号T4-L112后瑞地铁站B出口",
+            "shipping_time": "10:00-22:50"
+        },
+        {
+            "mtWmPoiId": "1005289830560408",
+            "shopName": "XO韩国炸鸡（后瑞店）",
+            "wmPoiScore": 46,
+            "monthSalesTip": "200",
+            "picUrl": "http://p0.meituan.net/waimaipoi/9732dcc2d45693441753dcf2221c87a3257918.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "40分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥20",
+            "shippingFeeTip": "配送 ¥4",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "2.0",
+            "averagePriceTip": "人均 ¥25",
+            "discounts2": [
+                {
+                    "info": "满20减5;满30减7满40减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "折扣商品8.5折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                }
+            ],
+            "address": "深圳市宝安区航城街道后瑞社区后瑞村南一巷50号101",
+            "shipping_time": "10:30-23:59"
+        },
+        {
+            "mtWmPoiId": "915726877551234",
+            "shopName": "尊宝比萨(桃源居店)",
+            "wmPoiScore": 43,
+            "monthSalesTip": "150",
+            "picUrl": "http://p1.meituan.net/waimaipoi/a069cda780cfad105f7d34b193f4cd8027807.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "52分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥40",
+            "shippingFeeTip": "配送 ¥8",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "3.2",
+            "averagePriceTip": "人均 ¥50",
+            "recommendInfo": {
+                "icon": "",
+                "recommendReason": "大众点评高分店铺",
+                "type": 3
+            },
+            "discounts2": [
+                {
+                    "info": "满30减5;满40减7满50减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "折扣商品7.6折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                },
+                {
+                    "info": "本店支持开发票，开票金额0元起",
+                    "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                    "promotionType": 2,
+                    "activityId": -2
+                }
+            ],
+            "address": "深圳宝安区桃源居14区1栋1单元111号铺（人人乐正对面）",
+            "shipping_time": "09:10-22:00"
+        },
+        {
+            "mtWmPoiId": "868314733563353",
+            "shopName": "华莱士·全鸡汉堡(黄田店)",
+            "wmPoiScore": 41,
+            "monthSalesTip": "453",
+            "picUrl": "http://p0.meituan.net/waimaipoi/2a3954d322b7b4fa7b82b1c0e58770a311192.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "40分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥20",
+            "shippingFeeTip": "配送 ¥4",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "2.0",
+            "averagePriceTip": "人均 ¥25",
+            "discounts2": [
+                {
+                    "info": "满20减5;满30减7满40减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "折扣商品8.7折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                },
+                {
+                    "info": "本店支持开发票，开票金额0元起",
+                    "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                    "promotionType": 2,
+                    "activityId": -2
+                }
+            ],
+            "address": "深圳市宝安区钟屋二路88号",
+            "shipping_time": "00:00-04:58,09:00-23:59"
+        },
+        {
+            "mtWmPoiId": "1047668272876250",
+            "shopName": "绝味鸭脖（兴围店）",
+            "wmPoiScore": 46,
+            "monthSalesTip": "100",
+            "picUrl": "http://p1.meituan.net/waimaipoi/bb937d469c2cb7f44ca572797f295fbb35261.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "50分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥25",
+            "shippingFeeTip": "配送 ¥4",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "2.3",
+            "averagePriceTip": "人均 ¥30",
+            "discounts2": [
+                {
+                    "info": "满20减5;满30减7满40减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "本店支持开发票，开票金额0元起",
+                    "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                    "promotionType": 2,
+                    "activityId": -2
+                }
+            ],
+            "address": "深圳市宝安区福永街道兴围村中十一巷1号楼3号铺（百安大道深鹏百货南50米）",
+            "shipping_time": "00:05-02:00,02:00-23:59"
+        },
+        {
+            "mtWmPoiId": "1041655318685362",
+            "shopName": "火焰山烤肉拌饭、脆皮鸡饭（黄田店）",
+            "wmPoiScore": 46,
+            "monthSalesTip": "200",
+            "picUrl": "http://p1.meituan.net/waimaipoi/7e4d1182ddfa21d40a5f5d0260e5b97358414.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "40分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥15",
+            "shippingFeeTip": "配送 ¥2",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "2.3",
+            "averagePriceTip": "人均 ¥20",
+            "discounts2": [
+                {
+                    "info": "满20减5;满30减7满40减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "折扣商品8.5折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                },
+                {
+                    "info": "领2元券;领5元券;领6元券",
+                    "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+                    "promotionType": 2,
+                    "activityId": 103
+                },
+                {
+                    "info": "实际支付20元返5元商家代金券",
+                    "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+                    "promotionType": 2,
+                    "activityId": 100
+                },
+                {
+                    "info": "满25元赠送清凉茶",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+                    "promotionType": 2,
+                    "activityId": 5
+                }
+            ],
+            "address": "黄田旧村委商业房2103 国安百货对面",
+            "shipping_time": "10:00-23:59"
+        },
+        {
+            "mtWmPoiId": "1016851882566393",
+            "shopName": "鲍师傅糕点（固戍店）",
+            "wmPoiScore": 49,
+            "monthSalesTip": "300",
+            "picUrl": "http://p1.meituan.net/business/eb7e848a7fcef2eadf3fc4b5bab68b3d34882.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "50分钟",
+            "deliveryType": 1,
+            "minPriceTip": "起送 ¥20",
+            "shippingFeeTip": "配送 ¥4",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "3.2",
+            "averagePriceTip": "人均 ¥30",
+            "discounts2": [
+                {
+                    "info": "满20减5;满30减7满40减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "折扣商品9.5折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                }
+            ],
+            "address": "深圳市宝安区西乡街道地铁一号线固戍站物业区B07商铺",
+            "shipping_time": "10:00-22:00"
+        },
+        {
+            "mtWmPoiId": "1048806439241169",
+            "shopName": "多一點點炸鸡（福永店）",
+            "wmPoiScore": 47,
+            "monthSalesTip": "400",
+            "picUrl": "http://p1.meituan.net/waimaipoi/05cea50d9a9370940936fcf6f99c979073246.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "1小时25分钟",
+            "deliveryType": 1,
+            "minPriceTip": "起送 ¥15",
+            "shippingFeeTip": "配送 ¥4",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "5.2",
+            "averagePriceTip": "人均 ¥25",
+            "discounts2": [
+                {
+                    "info": "满20减5;满30减7满40减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "折扣商品8.8折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                },
+                {
+                    "info": "领7元券",
+                    "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+                    "promotionType": 2,
+                    "activityId": 103
+                }
+            ],
+            "address": "福永街道兴围社区南九巷12号101",
+            "shipping_time": "10:30-23:59"
+        },
+        {
+            "mtWmPoiId": "1056099293672884",
+            "shopName": "汉堡王(深圳航城里餐厅26981)",
+            "wmPoiScore": 43,
+            "monthSalesTip": "165",
+            "picUrl": "http://p0.meituan.net/xianfu/7af9e3e8225eb15170d5215a8746e9de58120.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "40分钟",
+            "deliveryType": 1,
+            "minPriceTip": "起送 ¥25",
+            "shippingFeeTip": "配送 ¥4",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "2.5",
+            "averagePriceTip": "人均 ¥30",
+            "discounts2": [
+                {
+                    "info": "满20减5;满30减7满40减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "折扣商品8.8折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                },
+                {
+                    "info": "本店支持开发票，开票金额0元起",
+                    "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+                    "promotionType": 2,
+                    "activityId": -2
+                }
+            ],
+            "address": "深圳市宝安区航城街道三围社区航城里购物中心A栋133A一楼L1036b&L1037号商铺",
+            "shipping_time": "08:00-22:00"
+        },
+        {
+            "mtWmPoiId": "930892407048258",
+            "shopName": "御蝶坊（面包·下午茶·后瑞店）",
+            "wmPoiScore": 47,
+            "monthSalesTip": "235",
+            "picUrl": "http://p0.meituan.net/waimaipoi/86cfa8354209a6f199c85cf0ee29384191462.jpg",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "30分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥20",
+            "shippingFeeTip": "配送 ¥4",
+            "origin_shipping_fee_tip": "",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "1.5",
+            "averagePriceTip": "人均 ¥30",
+            "discounts2": [
+                {
+                    "info": "满20减5;满30减7满40减10",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+                    "promotionType": 2,
+                    "activityId": 2
+                },
+                {
+                    "info": "折扣商品9.5折起",
+                    "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+                    "promotionType": 2,
+                    "activityId": 17
+                },
+                {
+                    "info": "实际支付30元返7元商家代金券",
+                    "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+                    "promotionType": 2,
+                    "activityId": 100
+                }
+            ],
+            "address": "深圳市宝安区航城街道后瑞社区新瑞路13、15号壹公寓113",
+            "shipping_time": "08:00-21:30"
+        }
+    ],
+    "navName": [
+        {
+            "name": "美食",
+            "url": "/food/delicious"
+        },
+        {
+            "name": "饺子馄饨",
+            "url": "dumplings"
+        },
+        {
+            "name": "快餐便当",
+            "url": "lunch"
+        },
+        {
+            "name": "汉堡薯条",
+            "url": "hamburger"
+        },
+        {
+            "name": "意面披萨",
+            "url": "pizza"
+        },
+        {
+            "name": "包子粥店",
+            "url": "baozi"
+        },
+        {
+            "name": "米粉面馆",
+            "url": "noodle"
+        },
+        {
+            "name": "麻辣烫冒菜",
+            "url": ""
+        },
+        {
+            "name": "川湘菜",
+            "url": ""
+        },
+        {
+            "name": "地方菜系",
+            "url": ""
+        },
+        {
+            "name": "炸鸡炸串",
+            "url": ""
+        },
+        {
+            "name": "特色小吃",
+            "url": ""
+        },
+        {
+            "name": "夹馍饼类",
+            "url": ""
+        },
+        {
+            "name": "鸭脖卤味",
+            "url": ""
+        },
+        {
+            "name": "日料寿司",
+            "url": ""
+        },
+        {
+            "name": "韩式料理",
+            "url": ""
+        },
+        {
+            "name": "香锅干锅",
+            "url": ""
+        },
+        {
+            "name": "火锅串串",
+            "url": ""
+        },
+        {
+            "name": "龙虾烧烤",
+            "url": ""
+        },
+        {
+            "name": "轻食沙拉",
+            "url": ""
+        },
+        {
+            "name": "暖胃粉丝汤",
+            "url": ""
+        }
+    ],
+    "lunchList": [
+                    {
+                        "mtWmPoiId": "910169190076280",
+                        "shopName": "老胡同北京烤鸭",
+                        "wmPoiScore": 46,
+                        "monthSalesTip": "420;",
+                        "picUrl": "http://p0.meituan.net/business/5bf8f795d400c228f606bd26a86ca92025940.jpg@180w_132h_1e_1c",
+                        "poiTypeIcon": "",
+                        "deliveryTimeTip": "45分钟",
+                        "deliveryType": 0,
+                        "minPriceTip": "起送 ¥20",
+                        "shippingFeeTip": "配送 ¥0",
+                        "status": 1,
+                        "statusDesc": "",
+                        "distance": "2.0",
+                        "averagePriceTip": "人均 ¥25",
+                        "address": "",
+                        "shipping_time": ""
+                    }
+    ],
+    "baoziList": [
+        {
+            "mtWmPoiId": "926228072815307",
+            "shopName": "满口鲜包子",
+            "wmPoiScore": 0,
+            "monthSalesTip": "8658;",
+            "picUrl": "http://p0.meituan.net/waimaipoi/3d0f3f5538ed9693771882c5db025f7234816.jpg@180w_132h_1e_1c",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "20分钟",
+            "deliveryType": 1,
+            "minPriceTip": "起送 ¥10",
+            "shippingFeeTip": "配送 ¥2",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "1.0",
+            "averagePriceTip": "",
+            "address": "",
+            "shipping_time": ""
+        },
+        {
+            "mtWmPoiId": "1019622136650190",
+            "shopName": "咸骨粥爽滑饺子王（壆岗店）",
+            "wmPoiScore": 0,
+            "monthSalesTip": "5325",
+            "picUrl": "http://p0.meituan.net/waimaipoi/19f5ec2777a22e8cd2d21677e46fd04a32768.jpg@180w_132h_1e_1c",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "20分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥18",
+            "shippingFeeTip": "配送 ¥0",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "1.2",
+            "averagePriceTip": "",
+            "address": "",
+            "shipping_time": ""
+        },
+        {
+            "mtWmPoiId": "1122851675600422",
+            "shopName": "潮旺美食砂锅粥",
+            "wmPoiScore": 0,
+            "monthSalesTip": "2144;",
+            "picUrl": "http://p1.meituan.net/business/7ab68ff30e2b694bc6930cf6807e8d96675697.jpg@180w_132h_1e_1c",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "25分钟",
+            "deliveryType": 1,
+            "minPriceTip": "起送 ¥15",
+            "shippingFeeTip": "配送 ¥0;",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "1.3",
+            "averagePriceTip": "",
+            "shippingTimeInfo": {
+                "statusContent": "接受预订",
+                "descContent": "17:00后配送",
+                "reservationStatus": 0
+            },
+            "address": "",
+            "shipping_time": ""
+        },
+        {
+            "mtWmPoiId": "1035930127439987",
+            "shopName": "巴比馒头（宝安大道店）",
+            "wmPoiScore": 50,
+            "monthSalesTip": "2435",
+            "picUrl": "http://p1.meituan.net/waimaipoi/9ac57ece881ba6b1fc1138abd0d6844923481.jpg@180w_132h_1e_1c",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "26分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥12",
+            "shippingFeeTip": "配送 ¥0",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "1.5",
+            "averagePriceTip": "",
+            "address": "",
+            "shipping_time": ""
+        },
+        {
+            "mtWmPoiId": "1064513134789780",
+            "shopName": "烈盛潮鲜鱼粥",
+            "wmPoiScore": 0,
+            "monthSalesTip": "95552",
+            "picUrl": "http://p0.meituan.net/waimaipoi/4227b677dcbbe6d50abfe9d76ff2f07d100352.jpg@180w_132h_1e_1c",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "34分钟",
+            "deliveryType": 1,
+            "minPriceTip": "起送 ¥20",
+            "shippingFeeTip": "配送 ¥2",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "2.3",
+            "averagePriceTip": "",
+            "address": "",
+            "shipping_time": ""
+        },
+        {
+            "mtWmPoiId": "893912738850547",
+            "shopName": "张记老上海馄饨铺（壆岗店）",
+            "wmPoiScore": 0,
+            "monthSalesTip": "2441",
+            "picUrl": "http://p0.meituan.net/waimaipoi/1006b762090404ad5cdde9b8c33e4cb726624.jpg@180w_132h_1e_1c",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "30分钟",
+            "deliveryType": 1,
+            "minPriceTip": "起送 ¥15",
+            "shippingFeeTip": "配送 ¥5",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "2.0",
+            "averagePriceTip": "",
+            "address": "",
+            "shipping_time": ""
+        },
+        {
+            "mtWmPoiId": "1001497374649232",
+            "shopName": "咸骨粥爽滑饺子王(后亭店)",
+            "wmPoiScore": 38,
+            "monthSalesTip": "24522",
+            "picUrl": "http://p0.meituan.net/waimaipoi/25978af2bd830a0880915b0fa46468a120480.jpg@180w_132h_1e_1c",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "32分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥18",
+            "shippingFeeTip": "配送 ¥0",
+            "status": 1,
+            "statusDesc": "",
+            "distance": "3.0",
+            "averagePriceTip": "人均 ¥20",
+            "address": "",
+            "shipping_time": ""
+        },
+        {
+            "mtWmPoiId": "995870967526491",
+            "shopName": "一招仙咸骨粥爽滑饺子王",
+            "wmPoiScore": 0,
+            "monthSalesTip": "5432",
+            "picUrl": "http://p0.meituan.net/waimaipoi/0d87b17e5b8abb4657828618e3cbbafb36864.jpg@180w_132h_1e_1c",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "22分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥14",
+            "shippingFeeTip": "配送 ¥2",
+            "status": 3,
+            "statusDesc": "休息中",
+            "distance": "2.4",
+            "averagePriceTip": "",
+            "address": "",
+            "shipping_time": ""
+        },
+        {
+            "mtWmPoiId": "864466443100706",
+            "shopName": "正潮味汕头鱼粥",
+            "wmPoiScore": 0,
+            "monthSalesTip": "245532",
+            "picUrl": "http://p0.meituan.net/waimaipoi/3303b7e4c1dbacddda6e4022eb6cae82329728.jpg@180w_132h_1e_1c",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "22分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥15",
+            "shippingFeeTip": "配送 ¥2",
+            "status": 3,
+            "statusDesc": "休息中",
+            "distance": "1.6",
+            "averagePriceTip": "",
+            "address": "",
+            "shipping_time": ""
+        },
+        {
+            "mtWmPoiId": "886903352246511",
+            "shopName": "老菜脯粥",
+            "wmPoiScore": 41,
+            "monthSalesTip": "65433",
+            "picUrl": "http://p0.meituan.net/waimaipoi/3f46552df99a471d1a2695ef03b800d430720.jpg@180w_132h_1e_1c",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "25分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥16",
+            "shippingFeeTip": "配送 ¥0",
+            "status": 3,
+            "statusDesc": "休息中",
+            "distance": "2.0",
+            "averagePriceTip": "",
+            "address": "",
+            "shipping_time": ""
+        },
+        {
+            "mtWmPoiId": "1039108403274294",
+            "shopName": "鮮粥點(锡纸花甲粉)",
+            "wmPoiScore": 43,
+            "monthSalesTip": "25435",
+            "picUrl": "http://p1.meituan.net/business/8680691359d180e39c8d2cef8a7c4ed1193451.png@180w_132h_1e_1c",
+            "poiTypeIcon": "",
+            "deliveryTimeTip": "54分钟",
+            "deliveryType": 0,
+            "minPriceTip": "起送 ¥25",
+            "shippingFeeTip": "配送 ¥0",
+            "status": 3,
+            "statusDesc": "休息中",
+            "distance": "3.4",
+            "averagePriceTip": "人均 ¥30",
+            "address": "",
+            "shipping_time": ""
+        }
+    ]
+}
